@@ -74,7 +74,7 @@
         }
 
         .main-container {
-            max-width: 1400px;
+            max-width: 1800px;
             margin: 100px auto 40px;
             padding: 20px;
             position: relative;
